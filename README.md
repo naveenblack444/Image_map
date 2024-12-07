@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date: 7-10-2024
+# Date: 28-10-2024
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -102,7 +102,8 @@ Execute the programs and publish them.
 
 # OUTPUT
 #
-![alt text](image.png)
+![map shakthi](https://github.com/user-attachments/assets/129fbf67-4f78-4ee3-9d60-f4c6ad93a9b3)
+
 
 ![alt text](image-1.png)
 
